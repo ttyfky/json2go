@@ -54,8 +54,8 @@ Tha path can be:
 
 ```shell
 json2go [options] $PATH_TO_DIR_OR_FILE
-## Options
 ```
+### Options
 
 * `-output`: output is a path to put generated files. If this is not specified the generated models are printed in
   stdout.
