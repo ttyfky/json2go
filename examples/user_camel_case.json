@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "firstName": "Taro",
+  "lastName": "Tanaka",
+  "address": "Tokyo, Japan",
+  "age": 30,
+  "Brothers": [
+    {
+      "id": 2,
+      "firstName": "Jiro",
+      "lastName": "Tanaka",
+      "address": "Kyoto, Japan",
+      "age": 28
+    },
+    {
+      "id": 3,
+      "firstName": "Taro",
+      "lastName": "Tanaka",
+      "address": "Fukuoka, Japan",
+      "age": 20
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+package testdata
+
+type Address struct {
+	City    string `json:"city,omitempty"`
+	Country string `json:"country,omitempty"`
+}
+type Pet struct {
+	Name string `json:"name,omitempty"`
+	Type string `json:"type,omitempty"`
+}
+type Employee struct {
+	Age       int64  `json:"age,omitempty"`
+	FirstName string `json:"firstName,omitempty"`
+	IsMarried bool   `json:"isMarried,omitempty"`
+	LastName  string `json:"lastName,omitempty"`
+	Pets      []*Pet `json:"pets,omitempty"`
+	Position  string `json:"position,omitempty"`
+}
+type Company struct {
+	Address   *Address    `json:"Address,omitempty"`
+	Employees []*Employee `json:"employees,omitempty"`
+	Name      string      `json:"name,omitempty"`
+}

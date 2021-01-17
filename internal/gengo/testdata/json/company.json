@@ -1,0 +1,47 @@
+{
+  "name": "Company Inc.",
+  "Address": {
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  "employees": [
+    {
+      "firstName": "Dsk",
+      "lastName": "Ine",
+      "position": "CEO",
+      "pets": [
+        {
+          "name": "tama",
+          "type": "cat"
+        },
+        {
+          "name": "taro",
+          "type": "cat"
+        }
+      ],
+      "isMarried": true,
+      "age": 32
+    },
+    {
+      "firstName": "Tys",
+      "lastName": "Smz",
+      "position": "COO",
+      "pets": [
+        {
+          "name": "neko",
+          "type": "cat"
+        }
+      ],
+      "isMarried": true,
+      "age": 33
+    },
+    {
+      "firstName": "Tty",
+      "lastName": "Fky",
+      "position": "CTO",
+      "pets": [],
+      "isMarried": true,
+      "age": 31
+    }
+  ]
+}

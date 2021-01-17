@@ -1,0 +1,21 @@
+{
+  "brothers": [
+    {
+      "id": 1,
+      "firstName": "Jiro",
+      "lastName": "Tanaka",
+      "address": "Kyoto, Japan",
+      "age": 28,
+      "petNames" : ["alpha", "beta"],
+      "isMarried": true
+    },
+    {
+      "id": 2,
+      "firstName": "Taro",
+      "lastName": "Tanaka",
+      "address": "Fukuoka, Japan",
+      "age": 20,
+      "isMarried": false
+    }
+  ]
+}

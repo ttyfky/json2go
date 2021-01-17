@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "first_name": "Taro",
+  "last_name": "Tanaka",
+  "address": {
+    "zip": "123-4567",
+    "country":"Japan",
+    "city": "Tokyo"
+  },
+  "brothers": [
+    {
+      "first_name": "Jiro",
+      "last_name": "Tanaka",
+      "relation": "younger"
+    },
+    {
+      "first_name": "Hanako",
+      "last_name": "Tanaka",
+      "relation": "younger"
+    }
+  ],
+  "age": 30,
+  "is_married": false
+}
